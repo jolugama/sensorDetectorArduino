@@ -1,3 +1,6 @@
+- Debes quitar la barra baja del archivo
+- Cambiar las direcciones ip
+- Usuario y contraseña de tu broker mqtt. 
 
 This directory is intended for project header files.
 
